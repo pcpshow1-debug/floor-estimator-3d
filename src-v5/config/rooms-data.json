@@ -1,0 +1,110 @@
+{
+  "living": {
+    "id": "living",
+    "label": "Living room",
+    "photo": "/photos/rooms/living.webp",
+    "mask": "/photos/rooms/living-mask.png",
+    "width": 1536,
+    "height": 1024,
+    "quad": [
+      [
+        0.0,
+        0.395
+      ],
+      [
+        0.995,
+        0.375
+      ],
+      [
+        0.999,
+        0.999
+      ],
+      [
+        0.0,
+        0.999
+      ]
+    ],
+    "defaultFamily": "hardwood"
+  },
+  "kitchen": {
+    "id": "kitchen",
+    "label": "Kitchen",
+    "photo": "/photos/rooms/kitchen.webp",
+    "mask": "/photos/rooms/kitchen-mask.png",
+    "width": 1536,
+    "height": 1024,
+    "quad": [
+      [
+        0.0,
+        0.545
+      ],
+      [
+        0.905,
+        0.5
+      ],
+      [
+        0.999,
+        0.999
+      ],
+      [
+        0.0,
+        0.999
+      ]
+    ],
+    "defaultFamily": "hardwood"
+  },
+  "dining": {
+    "id": "dining",
+    "label": "Dining",
+    "photo": "/photos/rooms/dining.webp",
+    "mask": "/photos/rooms/dining-mask.png",
+    "width": 1536,
+    "height": 1024,
+    "quad": [
+      [
+        0.085,
+        0.615
+      ],
+      [
+        0.88,
+        0.505
+      ],
+      [
+        0.999,
+        0.999
+      ],
+      [
+        0.0,
+        0.999
+      ]
+    ],
+    "defaultFamily": "hardwood"
+  },
+  "bath": {
+    "id": "bath",
+    "label": "Bath",
+    "photo": "/photos/rooms/bath.webp",
+    "mask": "/photos/rooms/bath-mask.png",
+    "width": 1042,
+    "height": 1280,
+    "quad": [
+      [
+        0.0,
+        0.545
+      ],
+      [
+        0.795,
+        0.505
+      ],
+      [
+        0.99,
+        0.875
+      ],
+      [
+        0.0,
+        0.998
+      ]
+    ],
+    "defaultFamily": "tile"
+  }
+}
